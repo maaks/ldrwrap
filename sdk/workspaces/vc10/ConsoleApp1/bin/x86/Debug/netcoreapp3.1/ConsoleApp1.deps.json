@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp1/1.0.0": {
+        "dependencies": {
+          "LidarWrapper": "1.0.7948.21200"
+        },
+        "runtime": {
+          "ConsoleApp1.dll": {}
+        }
+      },
+      "LidarWrapper/1.0.7948.21200": {
+        "runtime": {
+          "LidarWrapper.dll": {
+            "assemblyVersion": "1.0.7948.21200",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LidarWrapper/1.0.7948.21200": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

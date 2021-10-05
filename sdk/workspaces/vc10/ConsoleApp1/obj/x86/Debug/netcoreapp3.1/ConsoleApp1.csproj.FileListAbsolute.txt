@@ -1,0 +1,16 @@
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\LidarWrapper.dll
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\bin\x86\Debug\netcoreapp3.1\LidarWrapper.pdb
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\ConsoleApp1\obj\x86\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

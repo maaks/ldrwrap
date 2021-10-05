@@ -1,0 +1,12 @@
+﻿  pch.cpp
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\sdk\include\rplidar_protocol.h(59,16): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\sdk\include\rplidar_protocol.h(59,16): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\sdk\include\rplidar_cmd.h(260,20): warning C4200: extension non standard utilisée : tableau de taille zéro dans un struct/union
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\sdk\include\rplidar_cmd.h(260,20): message : Ce membre va être ignoré par un constructeur par défaut, ou par un opérateur d'assignation de copie/déplacement
+  AssemblyInfo.cpp
+  LidarWrapper.cpp
+  Génération de code en cours...
+  .NETCoreApp,Version=v3.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+rplidar_driver.lib(rplidar_driver.obj) : warning LNK4075: ' /EDITANDCONTINUE' ignoré à cause de la spécification '/INCREMENTAL:NO'
+  LidarWrapper.vcxproj -> C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\Debug\LidarWrapper.dll

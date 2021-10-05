@@ -1,0 +1,4 @@
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\Debug\Ijwhost.dll
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\Debug\LidarWrapper.deps.json
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\Debug\LidarWrapper.runtimeconfig.json
+C:\Users\maaks\Downloads\rplidar_sdk-release-v1.12.0\rplidar_sdk-release-v1.12.0\sdk\workspaces\vc10\LidarWrapper\Debug\LidarWrapper.genruntimeconfig.cache
