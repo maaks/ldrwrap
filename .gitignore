@@ -1,0 +1,6 @@
+.vs
+*.sdf
+sdk/obj
+**/ipch
+tools/cp2102_driver/CP210x_Windows_Drivers.zip
+*.exe
